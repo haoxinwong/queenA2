@@ -8,7 +8,7 @@ namespace queenA2
         static void Main(string[] args)
         {
             int n = 5;
-            int r_q = 4;
+            int r_q = 5;
             int c_q = 3;
             int k = 2;
             List<int> ob1 = new List<int>();
@@ -37,9 +37,9 @@ namespace queenA2
             ob8.Add(4);*/
 
             List<List<int>> obstacles = new List<List<int>>();
-            obTotal.Add(ob1);
-            obTotal.Add(ob2);
-            obTotal.Add(ob3);
+            obstacles.Add(ob1);
+            obstacles.Add(ob2);
+            obstacles.Add(ob3);
             /*obTotal.Add(ob4);
             obTotal.Add(ob5);
             obTotal.Add(ob6);
