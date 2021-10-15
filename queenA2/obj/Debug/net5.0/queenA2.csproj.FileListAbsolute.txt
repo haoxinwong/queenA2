@@ -1,0 +1,16 @@
+C:\Users\WarSpite\source\repos\queenA2\queenA2\bin\Debug\net5.0\queenA2.exe
+C:\Users\WarSpite\source\repos\queenA2\queenA2\bin\Debug\net5.0\queenA2.deps.json
+C:\Users\WarSpite\source\repos\queenA2\queenA2\bin\Debug\net5.0\queenA2.runtimeconfig.json
+C:\Users\WarSpite\source\repos\queenA2\queenA2\bin\Debug\net5.0\queenA2.runtimeconfig.dev.json
+C:\Users\WarSpite\source\repos\queenA2\queenA2\bin\Debug\net5.0\queenA2.dll
+C:\Users\WarSpite\source\repos\queenA2\queenA2\bin\Debug\net5.0\ref\queenA2.dll
+C:\Users\WarSpite\source\repos\queenA2\queenA2\bin\Debug\net5.0\queenA2.pdb
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.csproj.AssemblyReference.cache
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.AssemblyInfoInputs.cache
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.AssemblyInfo.cs
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.csproj.CoreCompileInputs.cache
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.dll
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\ref\queenA2.dll
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.pdb
+C:\Users\WarSpite\source\repos\queenA2\queenA2\obj\Debug\net5.0\queenA2.genruntimeconfig.cache
